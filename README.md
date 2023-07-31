@@ -1,4 +1,4 @@
-# Implementing Large Language Model (LLM) for Enhanced Tumour Phenotypic & Treatment Recommendations from Electronic Medical Records (EMRs)
+# Implementing a Large Language Model (LLM) for Enhanced Tumour Phenotypic & Treatment Recommendations from Electronic Medical Records (EMRs)
 Source code for the Indicium Conference 2023 research project: "Implementing Large Language Model (LLM) for Enhanced Tumour Phenotypic &amp; Treatment Recommendations from Electronic Medical Records (EMRs)​". We use `gpt-3.5-turbo` as our LLM and Flutter to build the front-end for the app. 
 
 Uses `gpt-3.5-turbo` large language model to: 
